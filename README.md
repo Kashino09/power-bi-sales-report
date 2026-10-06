@@ -87,9 +87,9 @@ Também foi criado o grupo de compartimentos (bins) sobre `Units Sold`, usado no
 
 | Arquivo | Descrição |
 |---|---|
-| `Sales_Report_-_UX.pbix` | Projeto completo do Power BI Desktop, com as 3 páginas |
-| `Sales_Report_-_UX.pdf` | Exportação em PDF das 3 páginas do relatório |
-| `Sales_Report_-_UX.pptx` | Apresentação com as 3 páginas do relatório (um slide por página) |
+| `Sales Report - UX.pbix` | Projeto completo do Power BI Desktop, com as 3 páginas |
+| `Sales Report - UX.pdf` | Exportação em PDF das 3 páginas do relatório |
+| `Sales Report - UX.pptx` | Apresentação com as 3 páginas do relatório (um slide por página) |
 
 # Autor
 - Kelwin Paschoal
